@@ -13,3 +13,10 @@ states/
 # Optional
 .env
 .env.local
+
+# Build artifacts
+out/
+cache/
+broadcast/
+
+.vscode/
